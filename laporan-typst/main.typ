@@ -193,4 +193,4 @@ Nizar Safariansyah (individu): pengaturan dan pelaksanaan seluruh eksperimen, an
 Claude (Anthropic) dipakai sebagai pemandu langkah pengerjaan (menjalankan notebook dan mengelola repositori), membantu menyusun kerangka laporan, merumuskan draf awal hipotesis Bagian B, dan menyusun draf teks laporan yang kemudian diperiksa penulis. Seluruh angka berasal dari run penulis sendiri dan tercatat di `hasil/ablasi.csv`.
 
 #heading(numbering: none)[Kode dan Data]
-Kode, notebook beserta output, dan seluruh hasil run tersedia di #link("https://github.com/nizar326/dlw-tugas-124400029").
+Kode, notebook beserta output, dan seluruh hasil run tersedia di #link("https://github.com/nizar326/dlw-tugas-ra-124400029").
